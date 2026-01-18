@@ -1,1 +1,0 @@
-# AI Caption Generator
